@@ -1,0 +1,11 @@
+.idea/
+Results/
+Resources/
+Test.py
+__pycache*/
+*~
+*.txt
+45.76.214.134/
+*.pyc
+Depends.zip
+*.binetflow
